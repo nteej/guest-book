@@ -2,7 +2,7 @@
 
 # Guest Book
 
-###how to setup
+### How to setup project
 
 git clone https://github.com/nteej/guest-book.git
 
@@ -18,7 +18,7 @@ php artisan migrate --seed
 
 php artisan serve
 
-##Cron job setup
+## Cron job setup
 
 Log into linux server
 
